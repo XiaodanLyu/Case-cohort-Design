@@ -1,4 +1,4 @@
-# Case-cohort-design
+# Case-cohort Design
 compare case-cohort design with simple random sampling
 
 - Director:     Dr. Jieli Ding
