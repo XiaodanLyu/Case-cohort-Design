@@ -1,6 +1,17 @@
-# Case-cohort Design
+## Introduction
 
-- Director:     Dr. Jieli Ding
-- Team member:  Xiaodan Lyu, Chengyu Lo, Lan Gao, Ling Jin, Yuan Wang
+This project is part of the Research Experiences for Undergraduates (REU) program in China. All of the team members of this project were undergraduates in statistics at [Wuhan University](https://en.whu.edu.cn/). The faculty that supervised this project is [Dr.Jieli Ding](http://maths.whu.edu.cn/info/1415/11672.htm).
 
-We conduct a statistical simulation to case-cohort design and compare its efficiency against simple random sampling. We generated sample data from Exponential and Weibull distribution. Cox proportional model is frequently used for simple randomly sampled survival data, while weighted Cox proportional model (Self and Prentice, 1988) is designed for biased sampling like case-cohort design. Besides, we applied the methodology to the data from the third and fourth clinical trials of the US National Wilms Tumor Study Group (NWTSG). Histology and tumor stage end up being the significant predictors for relapse. In the end, we computed the relative risk among different levels of these factors.
+In this project, we
+
+- conducted statistical simulations with case-cohort sampling design and compare its efficiency against simple random sampling under cox proportional harzard model. 
+
+![](presentations/case_cohort_sampling.png)
+
+- applied the methodology to the data from the third and fourth clinical trials of the US National Wilms Tumor Study Group (NWTSG).
+
+## Reference (in Chinese)
+
+- [Technical report](presentations/final_report.pdf)
+
+- [Slides](presentations/slides.pdf)
