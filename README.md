@@ -6,7 +6,7 @@ In this project, we
 
 - conducted statistical simulations with case-cohort sampling design and compare its efficiency against simple random sampling under cox proportional harzard model. 
 
-<center>![](presentations/case_cohort_sampling.png)</center>
+<p align="center"><img src="presentations/case_cohort_sampling.png"></p>
 
 - applied the methodology to the data from the third and fourth clinical trials of the US National Wilms Tumor Study Group (NWTSG).
 
